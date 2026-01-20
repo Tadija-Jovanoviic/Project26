@@ -14,3 +14,5 @@ void main() {
 	// ovo nije dobro formatirano, ova viticasta zagrada treba da bude na pocetku linije
 	// pre nego sto push-ujes mozes da uradis CTRL+A, CTRL+D da ti VS lepo formatira code
 	}
+
+// samo proveravamo notifikacije
