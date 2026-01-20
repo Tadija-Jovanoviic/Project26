@@ -7,4 +7,6 @@ void main() {
 		printf("Broj je paran.\n");
 	} else
 		printf("Broj je neparan.\n");
+	// ovo nije dobro formatirano, ova viticasta zagrada treba da bude na pocetku linije
+	// pre nego sto push-ujes mozes da uradis CTRL+A, CTRL+D da ti VS lepo formatira code
 	}
